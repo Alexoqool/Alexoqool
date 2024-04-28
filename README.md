@@ -2,6 +2,6 @@
 
 Hi, I’m Alexoqool
 
-I'm Doing some coding in Java, C++, interested in making logos
+I'm learning Java and C++ and currently working on WinDroid
 
 (Working on Poco F3 ☠️)
