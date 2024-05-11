@@ -1,6 +1,7 @@
-# Ummm it's Readme
+### Alexoqool
 
-Hi, I’m Alexoqool
+> [!NICKNAME]
+> Alexoqool
 
 I'm learning Java and C++ and currently working on Horizon
 
