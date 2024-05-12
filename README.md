@@ -1,4 +1,4 @@
-<h1 align="center">Hk, I'm Alexoqool!</h1>
+<h1 align="center">Hi, I'm Alexoqool!</h1>
 <h2 align="center">Learning Java</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexoqool&label=Profile%20views&color=0e75b6&style=flat" alt=Aalexoqool" /> </p>
