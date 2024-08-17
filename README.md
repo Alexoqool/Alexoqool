@@ -11,5 +11,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Alexoqool&locale=en" alt=Alexoqool" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexoqool&show_icons=true&locale=en" alt="Alexoqool" /></p>
-
-(Working on Poco F3)
