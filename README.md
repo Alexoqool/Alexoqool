@@ -1,5 +1,17 @@
-<h1 align="center">Hi, I'm Alexoqool!</h1>
+# Hi, I'm Alexoqool!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alexoqool" alt="Alexoqool" /></a> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alexoqool&show_icons=true&theme=vue-dark&locale=en" alt="Alexoqool" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexoqool&label=Profile%20views&color=0e75b6&style=flat" alt=Alexoqool" /> </p>
+- 🌱 I’m currently learning Kotlin
+
+## Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alexoqool" />
+</p>
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alexoqool&&style=flat-square" align="center" />
+</p>
