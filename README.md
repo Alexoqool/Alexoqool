@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Alexoqool!
+<strong>Hi, I'm Alexoqool!</strong>
 
 ---
 
