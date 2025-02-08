@@ -5,7 +5,7 @@
 ---
 
 🌱 I'm currently learning Kotlin<br>
-🚀 Interested in mobile development
+🚀 Interested in Android development
 
 ---
 
