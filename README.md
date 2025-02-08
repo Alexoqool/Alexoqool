@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Alexoqool!</h1>
 
-🌱 I'm currently learning Kotlin
+🌱 I'm currently learning Kotlin<br>
 🚀 Interested in mobile development
 
 <img
