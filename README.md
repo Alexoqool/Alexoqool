@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hi, I'm Alexoqool!**
+**<span style="font-size: 2em;">Hi, I'm Alexoqool!</span>**
 
 ---
 
