@@ -4,12 +4,13 @@
 
 </div>
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I'm currently learning Kotlin
+- 🚀 Interested in mobile development
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&hide_border=true&theme=dark"
+/>
 
 </div>
-
----
