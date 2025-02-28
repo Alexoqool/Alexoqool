@@ -1,12 +1,8 @@
-<div align="center">
-
 # Hi, I'm Alexoqool!
 
 <img
 src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&hide_border=true&theme=dark"
 />
-
-# 
 
 ## My main repos
 
@@ -17,5 +13,3 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Alexoqool&repo=rpc
 </a>
 
 #
-
-</div>
