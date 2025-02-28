@@ -3,6 +3,8 @@
 
 # Hi, I'm Alexoqool!
 
+• I'm currently learning Kotlin and C++.
+
 <img
 src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&hide_border=true&theme=dark"
 />
