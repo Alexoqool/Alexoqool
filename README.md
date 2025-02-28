@@ -10,4 +10,10 @@ src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=tr
 
 ---
 
+<img
+src="https://github-readme-stats.vercel.app/api/pin/?username=Alexoqool&repo=rpcs3-android&theme=dark"
+/>
+
+---
+
 </div>
