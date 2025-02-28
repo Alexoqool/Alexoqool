@@ -12,6 +12,8 @@ src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=tr
 
 **My main repos**
 
+</div>
+
 ---
 
 <a href="https://github.com/Alexoqool/rpcs3-android">
@@ -20,6 +22,6 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Alexoqool&repo=rpc
 />
 </a>
 
----
+> My own fork of rpcs3-android, I will try to fully maintain it in future.
 
-</div>
+---
