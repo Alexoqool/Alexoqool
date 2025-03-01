@@ -7,7 +7,7 @@
 <a href="https://github.com/Alexoqool?tab=followers">
 <img src="https://custom-icon-badges.demolab.com/github/followers/alexoqool?color=434343&logoColor=7BEB95&labelColor=151515&style=for-the-badge&logo=person-add" /></a>
 <img src="https://custom-icon-badges.demolab.com/github/stars/alexoqool?color=434343&labelColor=151515&logoColor=7BEB95&style=for-the-badge&logo=star" />
-<img src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&border_radius=0&hide_border=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&border_radius=0&hide_border=true&hide=stars&theme=dark" />
 
 <h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&pause=1000&center=true&&width=430&lines=My+main+repositories" />
