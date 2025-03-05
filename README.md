@@ -11,5 +11,4 @@
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&pause=1000&center=true&&width=430&lines=My+main+repositories)
 
-[![RPCS3 Android](https://github-readme-stats.vercel.app/api/pin/?username=Alexoqool&repo=rpcs3-android&border_radius=0&hide_border=true&theme=dark)](https://github.com/Alexoqool/rpcs3-android)
 [![JetFlex](https://github-readme-stats.vercel.app/api/pin/?username=Alexoqool&repo=JetFlex&border_radius=0&hide_border=true&theme=dark)](https://github.com/Alexoqool/JetFlex)
