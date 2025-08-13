@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&pause=1000&center=true&&width=430&lines=Hi%2C+I'm+Alexoqool!;Welcome+to+my+profile!;Check+out+my+projects!)
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=30&pause=1000&center=true&&width=430&lines=Hello there!)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexoqool&show_icons=true&count_private=true&border_radius=0&hide_border=true&theme=dark)
 
